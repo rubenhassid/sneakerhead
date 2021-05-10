@@ -1,0 +1,163 @@
+.banneraccueil{
+		position: center;
+		text-align: center;
+		margin-bottom: 0px;
+		height: 320px;
+		width: 100%;
+}
+.banner{
+		position: center;
+		text-align: center;
+		margin-bottom: 40px;
+		height: 320px;
+		width: 100%;
+
+}
+
+
+.btnmenu{
+	width:50%;
+ 	height:32px;
+ 	border: solid 0px;
+    color: #DCDCDC;
+}
+
+.btngrid{
+	margin: auto;
+	background-color: rgba(0,0,0,0);
+	border: none;
+}
+.h1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 4px solid white;
+  padding: 1%;
+}
+.alternate{
+	background-color: #B2B2B2;
+	color: white; 
+	padding-top: 40px; 
+	padding-bottom: 40px;
+	margin-bottom: 40px;
+}
+.half{
+	width: 50%;
+}
+
+.social{
+	width: 5%;
+    margin: auto;
+    margin-left: 250px;
+}
+
+.infos{
+	    width: 70%;
+    margin: auto;
+    margin-bottom: 40px;
+    text-align: justify;
+}
+
+.titlesection{
+	border-top: solid black 3px; 
+	border-bottom: solid black 3px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  margin-bottom: -4px;
+  display: flex;
+}
+
+.imgproduit{
+	width: 70%;
+    margin-left: 15%;
+    border-radius: 8px;
+    box-shadow: #0000008a 0px 0px 10px;
+}
+
+.menu{
+	display: flex;
+}
+
+.onglet{
+	font-family: 'red hat display';
+	font-weight: bold;
+	font-size: 16px;
+	color: #252525;
+	text-decoration: none;
+	width:50%;
+ 	height:32px;
+ 	border: solid 0px;
+	}
+
+h1{
+	font-family: 'red hat display';
+    font-size: 144px;
+    margin: 0px;
+}
+
+h2{font-family: 'red hat display';
+    font-size: 80px;
+    margin: 0px;
+
+}
+
+h3{font-family: 'red hat display';
+    font-size: 40px;
+    margin:0px;
+}
+
+h4{font-family: 'red hat display';
+    font-size: 32px;
+    margin:0px;
+    font-weight: lighter;
+}
+
+p{font-family: 'red hat display';
+    font-size: 24px;
+    margin:0px;
+    font-weight: lighter;
+}
+
+body{
+	margin:-10px;
+}
+.lien{
+	color: white;
+}
+
+.revendeur{
+	width: 160px; 
+	margin-top: 64px; 
+	height: 40px; 
+	margin-left: 56px; 
+	background-color: black; 
+	color: white; 
+	font-family: 'red hat display'; 
+	font-weight: 900; 
+	letter-spacing: 1px; }
+
+.grid{
+	margin: auto;
+	width: 20%;
+	height: 150px;
+	background-size: 100%;
+	border: none;
+    border-radius: 22px;
+    box-shadow: #0000008a 0px 0px 10px;
+}
+
+.marque{
+	font-family: 'red hat display';
+    font-weight: bold;
+    font-size: 24px;
+    color: #252525;
+    text-shadow: rgb(0 0 0 / 45%) 0px 0px 10px;
+    text-decoration: none;
+}
